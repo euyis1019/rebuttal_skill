@@ -1,0 +1,14 @@
+# Ignore PDF files
+*.pdf
+
+# Ignore common temporary files
+.DS_Store
+*~
+*.tmp
+*.bak
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
